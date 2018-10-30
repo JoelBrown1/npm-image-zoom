@@ -1,0 +1,27 @@
+{
+  "name": "npm-image-zoom",
+  "version": "1.0.0",
+  "description": "stand alone image magnifier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surfer-43/npm-image-zoom.git"
+  },
+  "keywords": [
+    "image",
+    "viewer",
+    "image",
+    "zoomer",
+    "image",
+    "zoom"
+  ],
+  "author": "Joel Brown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surfer-43/npm-image-zoom/issues"
+  },
+  "homepage": "https://github.com/surfer-43/npm-image-zoom#readme"
+}
